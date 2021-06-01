@@ -4,6 +4,7 @@
 int victory(vector < vector <int> > board)
 {
 
+    
     int white = 0;
 
     int black = 0;
