@@ -6,8 +6,8 @@ int victory(vector < vector <int> > board)
 
     
     int white = 0;
-
     int black = 0;
+    
     for (int i = 0; i <= 7; i++)
     {
         
