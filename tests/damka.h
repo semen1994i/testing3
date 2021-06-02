@@ -3,6 +3,7 @@
 #include <gtest/gtest.h>
 #include "function.h"
 
+
 TEST(damka, positive_white){
     vector < vector <int> > ivector = {{-1, 0,-1, 0,-1, 0,-1, 0},
                                        { 0,-1, 0,-1, 0,-1, 0,-1},
