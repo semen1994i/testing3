@@ -1,6 +1,7 @@
 #include "function.h"
 
 
+
 int victory(vector < vector <int> > board)
 {
 
