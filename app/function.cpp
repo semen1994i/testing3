@@ -23,6 +23,7 @@ int victory(vector < vector <int> > board)
             if (board[i][j] > 0)
             {
                 white = 1;
+                
             }
         }
     }
